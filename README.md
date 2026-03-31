@@ -5,6 +5,17 @@
 
 ---
 
+## English Edition
+
+如果你希望从英文版开始学习，现在仓库已经提供独立英文目录：
+
+- 英文总入口：[en/README.md](en/README.md)
+- 英文差距总览：[en/real-claude-code-vs-miniclaudecode-gap-overview.md](en/real-claude-code-vs-miniclaudecode-gap-overview.md)
+
+英文版采用 `en/` 独立维护，中文主线内容保持不变。
+
+---
+
 ## 这是什么？
 
 这是一套参考 `learn-openclaw` 组织方式、但完全围绕 **Claude Code** 重写的学习教程。
