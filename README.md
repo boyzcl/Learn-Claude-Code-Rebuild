@@ -232,6 +232,14 @@ Phase 4: 走向高完成度复刻
 4. 用“验收标准”逐条验证
 5. 通过后再进入下一课
 
+## 本地验证
+
+提交前可以运行 Markdown 链接检查：
+
+```bash
+python3 scripts/check_markdown_links.py
+```
+
 ---
 
 ## 实施节奏建议
@@ -586,7 +594,7 @@ MiniClaudeCode/
 
 详细说明见：
 
-- [真实_Claude_Code_vs_MiniClaudeCode_总体差距概览.md](/Users/boyzcl/Documents/A/Claude%20Code%20源码/learn-claude-code-rebuild/真实_Claude_Code_vs_MiniClaudeCode_总体差距概览.md)
+- [真实_Claude_Code_vs_MiniClaudeCode_总体差距概览.md](真实_Claude_Code_vs_MiniClaudeCode_总体差距概览.md)
 
 ### 建议什么时候读这份差距文档？
 
