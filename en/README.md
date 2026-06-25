@@ -218,6 +218,14 @@ For each lesson:
 4. Validate against the acceptance criteria.
 5. Only then move on.
 
+## Local Verification
+
+Before submitting changes, run the Markdown link check:
+
+```bash
+python3 scripts/check_markdown_links.py
+```
+
 This sequence matters because later lessons assume the earlier runtime boundaries are already stable.
 
 ---
